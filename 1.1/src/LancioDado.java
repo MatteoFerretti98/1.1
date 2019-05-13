@@ -4,5 +4,6 @@ public class LancioDado {
 	Dado d = new Dado();
 	System.out.println(d);
 	System.out.println("Sisisisisi");
+	d.pari();
 	}
 }
