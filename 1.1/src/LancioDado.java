@@ -6,5 +6,6 @@ public class LancioDado {
 	System.out.println("Sisisisisi ");
 	d.pari();
 	d.pari();
+	System.out.println("Si");
 	}
 }
