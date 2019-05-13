@@ -6,4 +6,10 @@ public class Dado {
 	public String toString() {
 		return "E' uscito "+lancio();
 	}
+	public Boolean pari() {
+		if ((lancio()%2)==0) {System.out.println("il numero è pari!");
+		return true;
+		}
+		return false;
+	}
 }
