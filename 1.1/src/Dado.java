@@ -7,7 +7,7 @@ public class Dado {
 		return "E' uscito "+lancio();
 	}
 	public Boolean pari() {
-		if ((lancio()%2)==0) {System.out.println("il numero è pari! ");
+		if ((lancio()%2)==0) {System.out.println("il numero è pari!  ");
 		return true;
 		}
 		return false;
