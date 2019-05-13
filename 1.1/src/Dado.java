@@ -4,6 +4,7 @@ public class Dado {
 		return 1+(int)(Math.random()*6);
 	}
 	public String toString() {
+		
 		return "E' uscito "+lancio();
 	}
 }
